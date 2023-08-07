@@ -1,0 +1,18 @@
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\bin\Debug\Tinh diem hoc sinh.exe.config
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\bin\Debug\Tinh diem hoc sinh.exe
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\bin\Debug\Tinh diem hoc sinh.pdb
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh diem hoc sinh.csproj.AssemblyReference.cache
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh diem hoc sinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form1.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form2.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Properties.Resources.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh diem hoc sinh.csproj.GenerateResource.cache
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh diem hoc sinh.csproj.CoreCompileInputs.cache
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh diem hoc sinh.exe
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh diem hoc sinh.pdb
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form3.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form4.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form5.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form6.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form7.resources
+C:\Users\84782\source\repos\Tinh diem hoc sinh\Tinh diem hoc sinh\obj\Debug\Tinh_diem_hoc_sinh.Form8.resources
